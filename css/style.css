@@ -279,7 +279,7 @@ a.article-title:hover{color:#d35;}
 #page-nav .page-number,#page-nav .extend{border-bottom:3px solid #ddd;border-top:1px solid #f1f1f1;color:#d35;display:inline;font-size:16px;font-weight:600;margin:0 2px;overflow:hidden;padding:7px 8px;position:relative;text-decoration:none;-webkit-transition:0.2s ease-in;-moz-transition:0.2s ease-in;-ms-transition:0.2s ease-in;transition:0.2s ease-in;}
 #page-nav .page-number:hover,#page-nav .extend:hover,#page-nav .page-number:active,#page-nav .extend:active,#page-nav .page-number.current,#page-nav .extend.current{border-bottom:3px solid #d35;border-top:1px solid #f1f1f1;color:#444;}
 #page-nav .space{color:#ddd;}
-#footer{background:#0d0106;color:#aaa;line-height:1.6em;margin-top:60px;}
+#footer{background:#0d0106;color:#aaa;line-height:1.6em;margin-top:60px;text-align:center;}
 #footer a{color:#ccc;text-decoration:none;}
 #footer a:hover{color:#fff;}
 #footer .credit{padding:30px;}

@@ -1,14 +1,22 @@
-User-agent: * 
-Disallow: /?s=* 
-Disallow: /?type=* 
-Disallow: /discountcode.html 
-Disallow: /404.html 
-Disallow: /2016/09/12/uk-gift-ideas/ 
-Disallow: /2016/09/12/cambridge-satchel/ 
-Disallow: /2016/09/12/fatburn/ 
-Disallow: /2016/09/12/holland-barrett/ 
-Disallow: /2016/09/12/lookfantastic-products/ 
+User-agent: *
+Disallow: /?s=*
+Disallow: /?type=*
+Disallow: /discountcode.html
+Disallow: /404.html
+Disallow: /2016/09/12/uk-gift-ideas/
+Disallow: /2016/09/12/cambridge-satchel/
+Disallow: /2016/09/12/fatburn/
+Disallow: /2016/09/12/holland-barrett/
+Disallow: /2016/09/12/lookfantastic-products/
 Disallow: /2016/01/06/uk-mobiles/
+
+Disallow: /uk-gift-ideas/
+Disallow: /cambridge-satchel/
+Disallow: /fatburn/
+Disallow: /holland-barrett/
+Disallow: /lookfantastic-products/
+Disallow: /uk-mobiles/
+Disallow: /edinburgh-castle/
 
 # User-agent: MJ12bot
 # Disallow: /

@@ -17,6 +17,7 @@ Disallow: /holland-barrett/
 Disallow: /lookfantastic-products/
 Disallow: /uk-mobiles/
 Disallow: /edinburgh-castle/
+Disallow: /jay-chou-london-2017/
 
 # User-agent: MJ12bot
 # Disallow: /

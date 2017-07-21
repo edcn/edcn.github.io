@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.edinburghcn.com/edinburgh-castle/</loc>
+    
+    <lastmod>2017-07-21T13:07:13.176Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.edinburghcn.com/edinburgh-hotel/</loc>
+    
+    <lastmod>2017-07-21T13:05:57.197Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.edinburghcn.com/apologue-edinburgh/</loc>
     
     <lastmod>2017-06-30T10:53:11.664Z</lastmod>
@@ -24,20 +38,6 @@
   
   <url>
     <loc>http://www.edinburghcn.com/huaxia2016/</loc>
-    
-    <lastmod>2017-06-08T15:03:28.011Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.edinburghcn.com/edinburgh-chinese-supermarket/</loc>
-    
-    <lastmod>2017-06-08T15:03:28.011Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.edinburghcn.com/edinburgh-hotel/</loc>
     
     <lastmod>2017-06-08T15:03:28.011Z</lastmod>
     
@@ -93,7 +93,7 @@
   </url>
   
   <url>
-    <loc>http://www.edinburghcn.com/edinburgh-castle/</loc>
+    <loc>http://www.edinburghcn.com/edinburgh-chinese-organizations/</loc>
     
     <lastmod>2017-06-08T15:03:28.011Z</lastmod>
     
@@ -156,21 +156,21 @@
   </url>
   
   <url>
-    <loc>http://www.edinburghcn.com/cambridge-satchel/</loc>
-    
-    <lastmod>2017-06-08T15:03:28.011Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.edinburghcn.com/edinburgh-chinese-organizations/</loc>
-    
-    <lastmod>2017-06-08T15:03:28.011Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.edinburghcn.com/edinburgh-chinese-restaurants/</loc>
+    
+    <lastmod>2017-06-08T15:03:28.011Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.edinburghcn.com/edinburgh-chinese-supermarket/</loc>
+    
+    <lastmod>2017-06-08T15:03:28.011Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.edinburghcn.com/cambridge-satchel/</loc>
     
     <lastmod>2017-06-08T15:03:28.011Z</lastmod>
     
